@@ -71,5 +71,5 @@ I'll keep learning how to use Figma to create designs.
 ## Author
 
 - Website - [Maame Yaa Serwaa Bona-Mensa](https://mbonamensa.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mbonamensa)
-- Twitter - [@yourusername](https://www.twitter.com/mys_bm)
+- Frontend Mentor - [@mbonamensa](https://www.frontendmentor.io/profile/mbonamensa)
+- Twitter - [@Mys_BM](https://www.twitter.com/mys_bm)
