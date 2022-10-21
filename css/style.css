@@ -78,8 +78,8 @@ hr {
 .card--details h1:hover {
   color: #00FFF6;
 }
-.card--details p {
-  font-size: 16px;
+.card--details .main-text {
+  font-size: 18px;
   font-weight: 300;
 }
 
@@ -97,6 +97,10 @@ hr {
   font-size: 13px;
   letter-spacing: 0.2px;
   font-weight: 300;
+}
+.card--options p {
+  font-weight: 400;
+  font-size: 14px;
 }
 .card--options .eth {
   color: #00FFF6;

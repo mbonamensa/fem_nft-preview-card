@@ -97,8 +97,8 @@ hr {
         }
     }
 
-    p {
-        font-size: 16px;
+    .main-text {
+        font-size: 18px;
         font-weight: 300;
     }
 }
@@ -113,6 +113,11 @@ hr {
         font-size: 13px;
         letter-spacing: 0.2px;
         font-weight: 300;
+    }
+
+    p {
+        font-weight: 400;
+        font-size: 14px;
     }
 
     .eth {
