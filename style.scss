@@ -48,6 +48,15 @@ hr {
     border-radius: 15px;
     box-shadow: 0px 4px 4px 26px rgb(0 0 0 / 1%), 0px 19px 15px 20px rgb(0 0 0 / 13%);
     margin: 80px 0;
+
+    a {
+        text-decoration: none;
+        color: $white;
+
+        &:hover {
+            color: $cyan
+        }
+    }
 }
 
 .card--img-container {
@@ -90,7 +99,6 @@ hr {
         margin-bottom: 20px;
         color: $white;
         font-size: 25px;
-        cursor: pointer;
 
         &:hover {
             color: $cyan;
@@ -147,14 +155,6 @@ hr {
         border-radius: 50px;
     }
 
-    span {
-        color: $white;
-        cursor: pointer;
-
-        &:hover {
-            color: $cyan
-        }
-    }
 }
 
 footer {

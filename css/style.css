@@ -35,6 +35,13 @@ hr {
   box-shadow: 0px 4px 4px 26px rgba(0, 0, 0, 0.01), 0px 19px 15px 20px rgba(0, 0, 0, 0.13);
   margin: 80px 0;
 }
+.card a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.card a:hover {
+  color: #00FFF6;
+}
 
 .card--img-container {
   position: relative;
@@ -73,7 +80,6 @@ hr {
   margin-bottom: 20px;
   color: #ffffff;
   font-size: 25px;
-  cursor: pointer;
 }
 .card--details h1:hover {
   color: #00FFF6;
@@ -123,13 +129,6 @@ hr {
   width: 30px;
   border: 1px solid;
   border-radius: 50px;
-}
-.card--owner span {
-  color: #ffffff;
-  cursor: pointer;
-}
-.card--owner span:hover {
-  color: #00FFF6;
 }
 
 footer {
