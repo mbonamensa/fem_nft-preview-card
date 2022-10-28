@@ -9,6 +9,7 @@ $grey-blue: #2F415B;
 $dark-blue: #14253D;
 $darker-blue: #0D192B;
 
+// Flexbox Mixin
 @mixin flexed($justify) {
     display: flex;
     align-items: center;
@@ -84,12 +85,7 @@ hr {
         &:hover {
             opacity: 1;
         }
-    }
-
-    .eye-icon {
-        width: 35px;
-    }
-    
+    }    
 }
 
 .card--details {
@@ -127,21 +123,6 @@ hr {
         font-weight: 400;
         font-size: 14px;
     }
-
-    .eth {
-        color: $cyan;
-
-        img {
-            width: 12px;
-        }
-    }
-
-    .time {
-        img {
-            width: 18px;
-        }
-    }
-
 }
 
 .card--owner {
@@ -171,6 +152,4 @@ footer {
             text-decoration: underline;
         }
     }
-
-  
 }

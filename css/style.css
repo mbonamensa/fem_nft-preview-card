@@ -69,9 +69,6 @@ hr {
 .card--img-container .overlay:hover {
   opacity: 1;
 }
-.card--img-container .eye-icon {
-  width: 35px;
-}
 
 .card--details {
   margin: 20px 0;
@@ -107,15 +104,6 @@ hr {
 .card--options p {
   font-weight: 400;
   font-size: 14px;
-}
-.card--options .eth {
-  color: #00FFF6;
-}
-.card--options .eth img {
-  width: 12px;
-}
-.card--options .time img {
-  width: 18px;
 }
 
 .card--owner {
